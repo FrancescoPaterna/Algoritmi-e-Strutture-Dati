@@ -1,5 +1,5 @@
 # Algoritmi e Strutture Dati
-Progetto Di Algoritmi e Strutture Dati [052509] - Politecnico Di Milano
+Progetto Di Algoritmi e Strutture Dati [052509]
 
 
 Obiettivo: Realizzare un sistema di monitoraggio di relazioni tra elementi 
