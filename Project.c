@@ -4,7 +4,7 @@
 Risolvero il prolema unendo una tabella di Hash ad una lista
 La tabella di hash terrà conto delle entità, le entità conterranno al loro 
 interno gli indirizzi di memoria di tutte le relazioni che ha inviato.
-Le relazioni sono sottoforma di puntatori, i puntatori mirano a dei blocchi di una lista.
+Le relazioni sono sottoforma di puntatori.
 Ogni blocco contiene il nome della relazione ricevente ed un contatore.
 
 Ho una lista di relazioni.
