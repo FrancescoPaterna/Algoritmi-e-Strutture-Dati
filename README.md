@@ -1,4 +1,4 @@
-# Progetto Di Algoritmi e Strutture Dati [052509] - Politecnico Di Milano
+# Progetto Di Algoritmi e Strutture Dati [052509]
 
 Prova Finale Di Algoritmi e Strutture Dati - Anno Accademico 2018/2019
 
