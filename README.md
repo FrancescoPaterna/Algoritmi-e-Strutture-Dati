@@ -5,6 +5,3 @@ Prova Finale Di Algoritmi e Strutture Dati, Politecnico di Milano, Anno Accademi
 Obiettivo: Realizzare un sistema di monitoraggio di relazioni tra elementi 
 
 Linguaggio: C
-
-
-Voto Finale 24/30
